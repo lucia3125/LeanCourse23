@@ -2,8 +2,8 @@
 
 Please fill out the following:
 ```
-First & last name:
-Uni-ID:
+First & last name: Lucia Krajcoviechova
+Uni-ID: s53lkraj
 ```
 
 ## Your own project
